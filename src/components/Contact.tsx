@@ -76,5 +76,6 @@ export default function Contact() {
         </span>
       </div>
     </footer>
+    
   );
 }
